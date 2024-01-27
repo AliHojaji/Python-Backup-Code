@@ -1,0 +1,8 @@
+#--- Author : Ali Hojaji ---#
+
+#--*-------------*--#
+#---> Py to EXE <---#
+#--*-------------*--#
+--> open CMD
+pip install pyinstaller
+pyinstaller --onefile Backup_Seegoal.py
